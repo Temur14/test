@@ -8,3 +8,6 @@ def div(a,b):
 
 def getNumber(lst):
     return lst[0]
+
+def hello(s):
+    return "hello"
